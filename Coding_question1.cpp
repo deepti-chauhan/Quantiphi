@@ -31,3 +31,6 @@ vector<vector<int>> func(int n,vector<int> left,vector<int> right)
     
     return result;
 }
+
+
+//it is the partially accepted solution, will update soon with complete answer.
